@@ -1,0 +1,12 @@
+name: stock_analyzer_app
+title: stock_analyzer_app
+username: prajwalkumar
+account: prajwalkumar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9469760
+bundleId: 7468018
+url: https://prajwalkumar.shinyapps.io/stock_analyzer_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

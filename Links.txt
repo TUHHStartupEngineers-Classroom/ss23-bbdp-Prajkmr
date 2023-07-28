@@ -1,0 +1,8 @@
+Sales Dashboard
+https://prajwalkumar.shinyapps.io/sales_dashboard_shiny/
+
+Stock Analyzer
+https://prajwalkumar.shinyapps.io/Stock_analyzer/
+
+Datacamp certificate
+Attached pdf in this folder
